@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Heal the World",
+  "base_artist": "Michael Jackson",
+  "createdAt": "2026-01-13T16:17:23.065614Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Heal the World",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/01_Heal_the_World_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Heal The World",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/02_Heal_The_World_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Heal the World (Album Version)",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/03_Heal_the_World_(Album_Version)_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Heal the World",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/04_Heal_the_World_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Heal the World",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/05_Heal_the_World_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Heal The World",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/06_Heal_The_World_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Heal The World",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/07_Heal_The_World_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Heal the World",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/08_Heal_the_World_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "15 Heal The World",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/09_15_Heal_The_World_Michael_Jackson.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Heal the World",
+      "artist": "Michael Jackson",
+      "has_synced": false,
+      "path": "select/pl_01_Heal_the_World_Michael_Jackson.txt"
+    }
+  ]
+}
